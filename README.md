@@ -1,5 +1,9 @@
 # gse
 
+Go 高性能多语言 NLP 和分词, 支持英文、中文、日文等, 支持接入 elasticsearch 和 bleve
+
+
+
 Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others. 
 And supports with [elasticsearch](https://github.com/vcaesar/go-gse-elastic) and [bleve](https://github.com/vcaesar/gse-bleve).
 
